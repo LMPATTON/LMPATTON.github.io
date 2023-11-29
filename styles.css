@@ -1,5 +1,5 @@
 body {
- background-color: royalblue;
+ background-color: darkblue;
  font-family: Arial, Helvetica, sans-serif;
  display: flex;
  flex-wrap: wrap;
@@ -21,11 +21,11 @@ a {
  color: black;
 }
 .assign {
- background-color: lightskyblue;
+ background-color: royalblue;
  margin: 10px;
  padding: 10px;
  border-radius: 20px;
- width: 100%;
+ width: 20%;
  box-shadow: 8px 8px deepskyblue;
  display: block; /* instead of flex */
 }
