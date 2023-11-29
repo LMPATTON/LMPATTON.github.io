@@ -21,12 +21,12 @@ a {
  color: black;
 }
 .assign {
- background-color: grey;
+ background-color: lightskyblue;
  margin: 10px;
  padding: 10px;
  border-radius: 20px;
  width: 20%;
- box-shadow: 8px 8px brown;
+ box-shadow: 8px 8px deepskyblue;
  display: block; /* instead of flex */
 }
 .assign img {
