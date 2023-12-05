@@ -1,41 +1,41 @@
 body {
- background-color: darkblue;
- font-family: Arial, Helvetica, sans-serif;
- display: flex;
- flex-wrap: wrap;
+  background: #005D6A;
+    font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
 }
 h1 {
- color: lightskyblue;
- text-align: center;
- width: 100%;
- display: block;
+  color: #CFCFCF;
+  text-align: center;
+  width: 100%;
+  display: block;
 }
-h1:hover {
- color: hotpink;
- text-align: center;
- width: 100%;
- display: block;
+h2:hover{
+  color: hotpink;
+  text-align: center;
+  width: 100%;
+  display: block;
 }
-a {
- text-decoration: none;
- color: black;
+a{
+  text-decoration: none;
+  color: black;
 }
 .assign {
- background-color: royalblue;
- margin: 10px;
- padding: 10px;
- border-radius: 20px;
- width: 20%;
- box-shadow: 8px 8px deepskyblue;
- display: block; /* instead of flex */
+  background-color: #FFFFFF;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+  width: 20%;
+  box-shadow: 8px 8px brown;
+  display: block;
 }
-.assign img {
- width: 200px;
- margin: 10px;
- border: 2px solid midnightblue;
+.assign img{
+  width: 200px;
+  margin: 20px;
+  border: 2px solid midnightblue;
 }
-.assign img:hover {
- width: 200px;
- margin: 10px;
- border: 2px dotted midnightblue;
+.assign img:hover{
+  width: 200px;
+  margin: 20px;
+  border: 2px dotted yellow;
 }
