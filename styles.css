@@ -1,27 +1,29 @@
 body {
-  background: #005D6A;
-    font-family: Arial, Helvetica, sans-serif;
-  display: flex;
+  background: royalblue;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex:
   flex-wrap: wrap;
 }
+
 h1 {
-  color: #CFCFCF;
+  color: white;
+  text-align: center;
+  width: 100%;
+  display:block;
+}
+h1:hover {
+  color: black:
   text-align: center;
   width: 100%;
   display: block;
-}
-h2:hover{
-  color: hotpink;
-  text-align: center;
-  width: 100%;
-  display: block;
-}
-a{
+  }
+a {
   text-decoration: none;
   color: black;
 }
+
 .assign {
-  background-color: #FFFFFF;
+  background-color: grey;
   margin: 10px;
   padding: 10px;
   border-radius: 20px;
@@ -29,13 +31,16 @@ a{
   box-shadow: 8px 8px brown;
   display: block;
 }
-.assign img{
+.assign img {
   width: 200px;
-  margin: 20px;
+  margin: 10px;
   border: 2px solid midnightblue;
 }
-.assign img:hover{
-  width: 200px;
-  margin: 20px;
+.assign img:hover {
+  width: 200px
+  margin: 10px
   border: 2px dotted yellow;
 }
+  
+  
+  
